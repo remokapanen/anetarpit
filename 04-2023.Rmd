@@ -2,74 +2,266 @@
 
 Taas vaihtoehdot puuttuvat suurimmasta osasta ja kysymyksenasettelua ei aina saatavilla. Näiden suhteen taas olen koittanut kirjoittaa tärkeimmät pointit. 
 
-## Verenpainetavoite elvytyksen jälkeen 
+Tässä yhteydessä nyt myös vain ne kysymykset, joita ei ole aikaisemmissa tärpeissä. 
 
-- >100 map: 50
+## Mikä on verenpainetavoite elvytyksen jälkeen? 
+
+Valitse toinen:
+
+- a. SVP >100 
+- b. MAP >50
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    a
+    
+Riippuen lähteestä on verenpaineen tavoite elvytyksen jälkeen systolinen >100 mmHg tai MAP >65 mmHg
+
+![](images/elvytyksenjälkeen.png)
+  </div>
+</div>
 
 ## Opioidien farmakologia
 
-Elvytyksessä monitorilla näkyy sinusrytmi, mitä teet
+Ei kysymyksenasettelua wikissä, tässä tärkeimmät aiheesta: 
 
-## Amiodaroni 
+**Lääkeaineiden luokittelu:**
 
-- = rytmihäiriölääke
+Tärkein tapa luokitella opioidit kliinisesti on niiden vahvuuden mukaan: 
 
-## Alkoholistille pitää antaa: tiamiini, joku, glukagoni, joku
+- Heikot opioidit = kodeiini ja tramadoli 
+- Keskivahvat opioidit = tärkein on buprenorfiini 
+- Vahvat opioidit = tärkeimmät ovat fentanyyli, morfiini ja oksikodoni
 
-## Mikä sokki kun sydäntamponaatio
+**Farmakodynamiikka:**
 
-## Mikä puudute lonkkaleikkauspotilaalle käypä hoidon mukaan
+Opioidit vaikuttavat kipuhermojen synapsien pre- ja postsynaptiseen puoleen 
 
-## Elvytyksen jälkeen potilas kakoo intubaatioputkea, mitä teet
+- Opioidireseptorien (pääasissa myy-opioidireseptori) aktivaatio aiheuttaa presynaptisesti Ca2+-kanavien sulkeutumista ja siten vähentää eksitatoristen neurotransmittereiden vapautumista
+- Opioidireseptorien (pääasissa myy-opioidireseptori) aktivaatio aiheuttaa postsynaptisesti K+-kanavien avautumista, mikä johtaa solukalvon hyperpolarisaatioon ja postsynaptisen aktiopotentiaalin inhibitioon
+- Samalla tavalla toimivat monet endogeeniset opioidit, jotka säätelevät kipuvastetta selkäytimen takasarvessa. 
 
-## Elektiivinen leikkaus tarkoittaa
+**Farmakokinetiikka:** 
 
-## NIV
+- Tärkeintä kinetiikasta on tietää heikkojen opioidien metabolia. Kodeiini ja tramadoli ovat molemmat itsessään hyvin huonoja opioideja, mutta ne metaboloituvat CYP2D6:n kautta opioidivaikutuksia välittäviksi metaboliteeiksi (kodeiini morfiiniksi ja tramadoli P-desmetyylitramadoliksi (ODT))
+- Jos potilas on CYP2D6:n suhteen hidas metaboloija, on kodeiinin ja tramadolin opioidivaikutus hyvin vähäinen. Taas ultranopeilla metaboloijilla vaikutukset ovat hyvin suuria ja samalla riskit haittavaikutuksille nousevat. 
 
-## Astrup tulkinta
+## Elvytyksessä monitorilla näkyy sinusrytmi, mitä teet seuraavaksi?
 
-## Puuduteainemyrkytyksen ensioireet
+Ei vaihtoehtoja wikissä, mutta tulisi osata vastata ilman vinkkejä 
 
-## Mikä neste kun joku aivoturvotusjuttu?
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    Tunnustele pulssi
+
+Jos rytmintarkastustauolla havaitset pulssin, joka mahdollisesti voisi kierrätää verta järkevästi, niin tunnustele pulssi. Jos pulssia ei tunnu, niin kyseessä on PEA eli pulseless electrical activity ja se on ei-iskettävä rytmi. 
+
+![](images/elvytyshorisontaalinen.png)
+  </div>
+</div>
+
+
+## Alkoholistille pitää antaa: 
+
+Valitse yksi
+
+- a. tiamiini
+- b. glukagoni 
+- c. 2 jotain muuta (ei wikissä)
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    a
+    
+Wernicke-Korsakoffin oireyhtymä johtuu tiamiinin (B1-vitamiinin) puutteesta, jonka taustalla on useimmiten alkoholin liikakäyttö
+
+Tiamiinia tulee antaa alkoholivieroituspotilaalla (/tästä epäillylle), vaikka hänellä ei olisikaan Wernicken enkefalopatiaan sopivia oireita. Periaattessa siis annetaan, jos alkoholisti tai tästä epäilty joutuu sairaalahoitoon. 
+
+Tärkein asia, joka tulee muistaa tiamiinin antamisesta puutospotilaille on se, että glukoosia tai ravintoa ei saa antaa ennen tiamiinitasojen korjaamista, koska glukoosi ennen tiamiinia pahentaa tilannetta Jos nälkäiset solut saavat glukoosia käytettäväkseen, ne alkavat käyttämään sitä nopeasti, mutta metaboliareitit eivät pysty etenemään jos ei ole tiamiinia -> välimetaboliitteja, kuten pyruvaattia kertyy ja tämä muutetaan maitohapoksi -> asidoosi ja soluvaurio. Tosin akuutissa hypoglykemiassa hypoglykemian nopea korjaaminen on tärkeämpää. 
+  </div>
+</div>
+
+## Mikä neste, kun joku aivoturvotusjuttu?
+
+Ei tarkempaa kysymyksenasettelua tai vaihtoehtoja wikissä. 
+
+- Mahdollisesti kyseessä ollut dysnatremiapotilaan aivoturvotus. 
+- Hyponatremia aiheuttaa aivoturvotusta, koska vettä siirtyy osmoottisesti neuroneihin -> aivoturvotus -> oksentelu, voimakas päänsärky, huomattava sekavuus, kouristelu tai tajuttomuus. Oireiden vaikeus kertoo aivoturvotuksen asteesta. 
+- Jos potilas on merkittävästi oireinen hyponatremian takia, on kyseessä ns. hyponatreeminen hätätilanne ja tällöin potilaalle annetaan 3% NaCl infuusiota 100ml/10min, ja infuusio toistetaan tarvittaessa ad 2x, kunnes P-Na on noussut 5 mmol/l lähtötilanteesta tai vakavat hyponatremian oireet ovat väistyneet. 
+
 
 ## Mikä tärkeintä hoitotilanteen johtajana? 
 
-- Johtaminen 😀
+Ei vaihtoehtoja, mutta wikissä annettu vastaus: Johtaminen 😀
 
 ## Milloin ROSC saavutettu? 
 
-- verta kierrättävä rytmi
+Ei vaihtoehtoja, mutta wikissä annettu vastaus: verta kierrättävä rytmi
+
+- ROSC siis tarkoittaa elvytystilanteessa spontaanin verenkierron palautumista (return of spontaneuous circulation)
 
 ## Mikä on tärkeintä elvytyksessä? 
 
-- varhainen deffaus ja laadukas ppe
+Ei vaihtoehtoja wikissä, mutta tulisi osata vastata ilman vinkkejäkin
 
-## Mitkä seuraavista ovat anesteetteja? -vaihtoehtoina opioideja, propofoli ym., rokuroni
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    Varhainen deffaus ja laadukas ppe
 
-## Mikä ei ole anafylaksian oire? -metallin maku suussa
+Tärkein yksittäinen elvytettävän potilaan ennustetta parantava tekijä on mahdollisimman varhainen defibrillaatio. Tämän takia esim. jos ollaan hoitolaitoksessa ja defibrillaattori on todella nopeasti saatavilla (laite potilaan vieressä tai jo valmiiksi kiinnitetty) JA potilas on jo monitorivalvonnassa JA havaitaan viiveettä VF tai VT, niin voidaan hälyttää lisäapua jonka jälkeen defibrilloida suoraan ennen painelun aloittamista. Defribillointia voidaan kokeilla kolmesti. 
 
-## Kompensoitu vai kompensoitumaton respiratorinen/metabolinen asidoosi/alkaloosi
+Jos elvytystilanteessa on vain 2 elvyttäjää, pääperiaate on, että ensisijaisesti keskitytään laadukkaaseen painelu-puhalluselvytykseen (PPE) ja varhaiseen defibrillaatioon; suoniyhteyden avaaminen on toissijaista ja tehdään vain, jos se ei heikennä PPE:n laatua.
+  </div>
+</div>
+
+## Mitkä seuraavista ovat anesteetteja? 
+
+Valitse: 
+
+- a. fentanyyli
+- b. propofoli 
+- c. rokuroni
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    b
+    
+Yleensä, kun puhutaan anesteeteista tai ylesanestesialääkkeistä, niin puhutaan tarkalleen ottaen hypnooteista eli nukutusta aiheuttavista/ylläpitävistä lääkkeistä. Näistä yleisimmin käytetty on propofoli, joka on laskimoanesteetti (yleisimmin käytetty inhalaatioanesteetti taas on sevofluraani). 
+
+a: Fentanyyli on analgeetti, joka on yleisimmin käytetty kipulääke yleisanestesiassa. 
+
+c: Rokuroni on yleisimmin yleisanestesiassa käytetty lihasrelaksantti. 
+  </div>
+</div>
+
+## Mikä ei ole anafylaksian oire? 
+
+Ei vaihtoehtoja, mutta annettu **vastaus: metallin maku suussa**
+
+- Metallin maku suussa on tyypillinen taas mm. puudutemyrkytyksen alkuvaiheelle 
+
+Anafylaksian oireista enemmän: 
+
+Periaate: Mitä nopeammin oireet alkavat ja etenevät, sitä vaikeampi reaktio on.
+
+Ensioireet: 
+
+- Ihon kuumotus, punoitus, pistely tai kutina
+- Takykardia
+- Täyteläisyyden tunne kurkussa, rinnassa, yskiminen
+- Mahdollisesti pahoinvointi, oksentelu
+
+Seuraavat oireet: 
+
+- Ihon turvotus (erityisesti silmäluomissa, huulissa), limakalvoturvotus (angioedeema)
+- Nokkosihottuma (urtikaria)
+- Kurkunpään turvotus, käheys, vinkuva hengitys, yskänpuuskat
+- Vatsakipu, pahoinvointi, ripuli, oksentelu
+- Verenpaineen lasku, hikoilu, kalpeus
+- Vaikeimmissa tapauksissa kurkunpään tukkeutuminen, sokki, hengityksen ja sydämen pysähtyminen
 
 ## Elvytystilanne: 2 elvyttäjää, voiko suoniyhteyden avata vai keskitytäänkö laadukkaaseen painelu-puhalluselvytykseen?
 
+Käyty juuri pari kysymystä ylempänä läpi, koita vastata taas
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    Keskity PPE
+
+Laadukas PPE ja mahdollisimman varhainen defibrillaatio ovat elvytyksen pääpilarit. Jos elvytystilanteessa on vain 2 elvyttäjää, pääperiaate on, että ensisijaisesti keskitytään laadukkaaseen painelu-puhalluselvytykseen (PPE) ja varhaiseen defibrillaatioon; suoniyhteyden avaaminen on toissijaista ja tehdään vain, jos se ei heikennä PPE:n laatua.
+  </div>
+</div>
+
+
 ## Mikä seuraavista on keskivahva opioidi? 
 
-- Buprenorfiini
+Ei vaihtoehtoja, mutta mikä on yleisin ja usein ainoana mainittu keskivahva opioidi?
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    Buprenorfiini
+
+On myös toinen keskivahva opioidi (petidiini), mutta tätä käytetään aika harvoin (käytettiin ennen enemmän synnytyskivussa, mutta nykyään vähän haittavaikutusten takia). 
+
+![](images/opioidivahvuudet.png)
+  </div>
+</div>
 
 ## GCS pisteiden laskeminen potilastapauksesta
 
-< 7 
+Ei esimerkkitapausta, mutta tässä GCS:n laskemisen kertaus: 
 
+SiPuLi: Silmät, Puhe, Liike 
 
-## Aivotapahtuma/sydäntapahtuma, milloin aikaisintaan elektiivinen leikkaus?
+- Hauskasti kuolleella potilaalla voi olla GCS periaatteessa 6, koska silmät voivat jäädä aukinaiseen tilaan kuolleellakin potilaalla 
+
+![](images/gcs.png)
 
 ## Sepsis, mikä ensisijainen vasoaktiivi? 
 
-- noradrenaliini
+Ei vaihtoehtoja wikissä, mutta tulisi osata vastata ilman vinkkejä
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    Noradrenaliini (NADR)
+
+Jos nesteytys ei riitä ylläpitämään verenpainetavoitetta (MAP >65) ja laktaatti on yli 2, niin kyseessä on septinen sokki 
+
+Tässä tilanteessa tulee turvautua verenkierron tukilääkitykseen. Ensisijainen lääke on noradrenaliini. Toissijaisena lääkkeenä voidaan käyttää vasopressiiniä tai adrenaliinia. Dopamiini ei sovellu septisen sokin lääkkeeksi, sillä se saattaa lisätä kuolleisuutta. 
+
+Noradrenaliinia annostellaan tyypillisesti tasaisena infuusiona infuusiopumpulla omaan linjaansa. Annostelu alueellisen ohjeen mukaan, mutta esim. 70-kiloiselle potilaalle 0,02–0,05 mikrog/kg/min. Yleisimmin käytetyt laimennokset ovat 4–5 mg noradrenaliinia (yksi 4 tai 5 ml:n ampulli) laimennettuna 100 ml:aan NaCl 0,9- tai G5-liuosta (pitoisuudet 0,04 mg/ml ja 0,05 mg/ml).
+Käyttövalmis liuos 0,08 mg/ml (Noradrenalin Aguettant 0,08 mg/ml). Annos on siis tyypillisesti n. 2-5 ml/t ja annosta suurennetaan vasteen mukaan yleensä erissä 5 ml/t.
+
+Hoitoon lisätään hydrokortisoni 200mg/vrk (50mg x 4) i.v. ellei neste+noradrenaliini riitä MAP-tavoitteeseen
+
+Mikäli verenkierron häiriöön liittyy sydänlihaslama ja sydämen huonontunut pumppaus sekä samanaikaisesti todetut riittämättömän kudosperfuusion merkit (sekoittuneen laskimoveren happikyllästeisyys (SvO2) alle 60–65 %, laktatemia ja metabolinen asidoosi), inotrooppisen lääkityksen aloittaminen on perusteltua, ja dobutamiinia tai levosimendaania voidaan käyttää parantamaan elimistön hapentarjontaa.
+  </div>
+</div>
 
 ## Mistä laktaatin nousu johtuu?
 
+Ei vaihtoehtoja wikissä, mutta tässä laktatemiasta tärkeimmtä: 
+
+Laktaatti (maitohappo) on anaerobisen glukoosimetabolian lopputuote.
+
+- Normaalioloissa veren laktaattipitoisuus on pieni
+
+Laktaatin pitoisuudet nousevat monissa tilanteissa, mutta niille kaikille yhteistä on anaerobisen glukoosimetabolian lisääntyminen
+
+- Aiheuttajia ovat mm. voimakas lihasrasitus, hypoksia (syystä tai toisesta; esim. mikä tahansa sokkitila eli verenkiertovajaus), tietyt metaboliahäiriöt (myös perinnölliset) ja eräät myrkytykset 
+
+- **Yleisin syy laktaatin nousulle on sepsis** ja septinen sokki. Septis voi aiheuttaa distributiivisen sokin kautta verenkiertovajauksen ja siten lisätä anaerobista energiantuotantoa periferiassa. Sepsiksessä endogeeninen adrenaliini myös stimuloi soluja lisäämään glykolyysiä ja tämä johtaa pyruvaatin liikatuotantoon, joka konvertoituu laktaatiksi. Vaikka sepsiksessä olisikin riittävä hapentarjonta kudoksessa, niin tämä ylimääräinen pyruvaatti usein muuttuu laktaatiksi, koska systeeminen inflammaatiotilanne voi häiritä mitokondrioiden toimintaa ja siten heikentää pyruvaattimetaboliaa. 
+
+
 ## Elvytyksen aikana minimimonitorointi
+
+Ei vaihtoehtoja, mutta käytännössä elvytyksessä vaaditaan vain rytminseuranta defibrillaattorista. Jos kyseessä on hoitoelvytys ja siihen on mahdollisuus, niin minimimonitorointiin kuuluu myös kapnometria. 
+
+- Verenpaine, happisaturaatio yms. eivät ole erityisen hyödyllisiä itse elvytyksen aikana, mutta ne ovat tärkeitä elvytyksen jälkeisessä hoidossa. 
 
 ## Post-op. pahoinvoinnille altistavat tekijät 
 
