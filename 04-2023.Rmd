@@ -107,7 +107,7 @@ Ei vaihtoehtoja, mutta wikissä annettu vastaus: Johtaminen 😀
 
 Ei vaihtoehtoja, mutta wikissä annettu vastaus: verta kierrättävä rytmi
 
-- ROSC siis tarkoittaa elvytystilanteessa spontaanin verenkierron palautumista (return of spontaneuous circulation)
+- ROSC siis tarkoittaa elvytystilanteessa spontaanin verenkierron palautumista (return of spontaneous circulation)
 
 ## Mikä on tärkeintä elvytyksessä? 
 
@@ -320,7 +320,7 @@ Käyty jo useaan otteeseen läpi aikaisemmin. Tulisi olla helppoa vastata kysymy
   <div class="solution-content">
     Nopeilla metaboloijilla 
     
-Kodeiini on aihiolääke, joka metaboloidaan maksassa CYP2D6::entsyymi:n toimesta morfiiniksi, joka välittää opioidivaikutuksen. Tämän vuoksi kodeiinin vasteet vaihtelevat huomattavasti yksilöiden välillä perimästä ja CYP2D6:ta estävien muiden samanaikaisten lääkkeiden takia. 
+Kodeiini on aihiolääke, joka metaboloidaan maksassa CYP2D6:n toimesta morfiiniksi, joka välittää opioidivaikutuksen. Tämän vuoksi kodeiinin vasteet vaihtelevat huomattavasti yksilöiden välillä perimän ja CYP2D6:ta estävien muiden samanaikaisten lääkkeiden takia. 
 
 Arvioiden mukaan CYP2D6:n suhteen hitaita metaboloijia on noin 7% valkoihoisista ja ultranopeita metaboloijia n. 3.6-6.5% (afrikkalaistaustaisista jopa 29%). 
   </div>
@@ -330,7 +330,7 @@ Arvioiden mukaan CYP2D6:n suhteen hitaita metaboloijia on noin 7% valkoihoisista
 
 Ei tarkempaa kysymyksenasettelua tai vaihtoehtoja wikissä, tässä tärkeimmät aiheesta: 
 
-**Kaikki tavanomaiset anestesialääkkeet, puudutteet ja paikallisesti käytettävät lääkeaineet soveltuvat raskaana olevan anestesiaan**
+**Kaikki tavanomaiset anestesialääkkeet, puudutteet ja paikallisesti käytettävät lääkeaineet soveltuvat raskaana olevan anestesiaan ja nukutus on pääsääntöisesti turvallista.**
 
 - Kipulääkkeista leikkauksen jälkeen parasetamoli on suositeltavin, NSAIDeja voidaan käyttää lyhytaikaisesti, mutta niiden käyttöä vältetään loppuraskaudesta valtimotiehyen (ductus arteriosus) sulkeutumisen vuoksi. Opioidit eivät ole vasta-aiheisia, mutta niitä käytetään pienintä tehokasta annosta mahdollisimman lyhyen aikaa (samoin kuten muillakin).
 
