@@ -14,13 +14,12 @@ Elvytyslääkkeiden annosteluskeema, jos kyseessä on iskettävä rytmi:
 
 - 3. iskun jälkeen adrenaliini 1mg + amiodaroni 300mg i.v. tai i.o.
 - 5. iskun jälkeen adrenaliini 1mg + amiodaroni 150mg i.v. tai i.o.
-- 7. iskun ja tämän jälkeen joka toisen painelusyklin (2minP painelua ja rytmintarkastus ja tarvittaessa isku
-) jälkeen adrenaliini 1mg
+- 7. iskun ja tämän jälkeen joka toisen painelusyklin (2min painelua ja rytmintarkastus ja tarvittaessa isku) jälkeen adrenaliini 1mg
 
 Elvytyslääkkeiden annosteluskeema, jos kyseessä on ei-iskettävä rytmi: 
 
 - Adrenaliinia 1mg i.v. tai i.o. annetaan heti, kun se on mahdollista (myös niissä tilanteissa, joissa rytmi on edeltävästi ollut iskettävä)
-- Jatkossa elvytyksen aikana adrenaliinia annetaan 3–5 joka toinen painelusykli
+- Jatkossa elvytyksen aikana adrenaliinia annetaan joka toinen painelusykli
 
 Lapsille annostelu on seuraava: 
 
@@ -33,6 +32,8 @@ Lapsille annostelu on seuraava:
 ## ROSC:in merkit
 
 Ei vaihtoehtoja wikissä, tässä tyypillisimmät:
+
+ROSC = spontaanin verenkierron palautuminen (return of spontaneous circulation) elvytyksessä
 
 - Selkeä etCO2:n nousu 
 - Potilaan liikehdintä
@@ -104,13 +105,20 @@ Yleisesti ennen yleisanestesiaa, sedaatiota tai laajaa puudutusta tulee aikuispo
 
 Edellä mainitut varoajat eivät kuitenkaan ole riittäviä potilasryhmissä, joissa riski on suuri, esimerkiksi diabeettista gastropareesia sairasvilla tai monivammapotilailla.
 
-- Aiemmin terveelläkin vakavasti akuutisti vammautuneella tai kriittisesti sairaalla potilaalla maha-suolikanavan motiliteetti hidastuu, mikä suurentaa aspiraatioriskiä
+- Aiemmin terveelläkin vakavasti akuutisti vammautuneella tai kriittisesti sairaalla potilaalla **maha-suolikanavan motiliteetti hidastuu, mikä suurentaa aspiraatioriskiä**
 
 Jos mahdollista, leikkausta siirretään, kunnes maha on tyhjentynyt.
 
 - Jos on hätäleikkaus, niin paastoaikoja ei tietystikään voida noudattaa.
-- Mahalaukku voidaan mahdollisesti tyhjentää nenä-mahaletkulla ennen anestesian induktiota. Letkua ei tarvitse poistaa induktion ajaksi.
-- Muitakin keinoja mahan tyhjentämisen nopeuttamiseen on.
+- Mahalaukku voidaan mahdollisesti tyhjentää nenä-mahaletkulla ennen anestesian induktiota. Letkua ei tarvitse poistaa induktion ajaksi. Muitakin keinoja mahan tyhjentämisen nopeuttamiseen on.
+
+Hätäpotilailla ja muutenkin korkeassa aspiraatioriskissä olevat potilaat intuboidaan ja tyypillisesti käytetääs RSI-tekniikka (rapid sequence intubation, "nopea intubaatio"). Tarkoitetaan yleisesti induktiotekniikkaa, jolla induktion yhteydessä hengitystie pyritään varmistamaan mahdollisimman nopeasti ja samalla estämään mahansisällön tai muun vahingollisen materiaalin joutuminen potilaan hengitysteihin. Sitä sovelletaan lähinnä potilaisiin, joilla aspiraatioriski on merkittävästi kohonnut (esim. paastoamaton potilas, akuutti mahakatastrofi, okkluusio, akalasia, isokokoiset Zenckerin divertikkelit tai muusta syystä johtuva sulamattoman ruoan retentoituminen tai akuutti verenvuoto hengitysteihin). Tekniikan tarkoituksena on minimoida aika tajunnan menetyksestä siihen hetkeen, jolloin hengitystie on saatu varmistettua. Samanaikaisesti pyritään estämään muilla keinoin mahalaukun sisällön joutuminen potilaan keuhkoihin niin kauan, kun hengitystie on suojaamaton.
+
+Mikäli potilaalla on nenä-mahaletku, mahalaukku tyhjennetään sen kautta imulla. Jos mahakatastrofipotilaalla ei jostain syystä ole valmiiksi nenä-mahaletkua, se laitetaan viimeistään ennen induktiota ventrikkelin tyhjentämistä varten. Esim. okkluusiopotilaalla mahalaukussa saattaa olla useita litroja fekaalista suolensisältöä, jonka joutuminen keuhkoihin johtaa väistämättä henkeä uhkaaviin komplikaatioihin.
+
+Ennen induktiota potilas käännetään jyrkkään anti-Trendelenburg-asentoon. Välittömästi potilaan nukahtamisen jälkeen avustaja komprimoi toisen käden peukalolla ja etusormella potilaan kurkunpäätä kilpiruston molemmilta puolilta suoraan alaspäin kohti selkärankaa (ns. Sellickin ote). Sellickin otteen tarkoituksena on ehkäistä mahansisällön nouseminen ruokatorvessa ylöspäin painamalla ruokatorvi mahdollisimman tehokkaasti kiinni. Ote säilytetään niin kauan, kunnes intubaatioputki on onnistuneesti paikallaan ja sen ilmakalvosin on täytetty.
+
+![](images/rsi.png)
 
 ## Aspiraatioriskistä 2-3kyssäriä
 
@@ -122,6 +130,7 @@ Ei kysymystenasettelua wikissä, mutta tässä tärkeimpiä aspiraatioriskistä:
 
 
 Aspiraatio on mahdollista myös laajoissa puudutuksissa ja sedaation yhteydessä.
+
 - Paikallispuudutuksessa tehtävää pienkirurgiaa lukuun ottamatta puudutustoimenpiteissä on noudatettava samoja paastoaikoja kuin yleisanestesiaa vaativien toimenpiteiden kohdalla, koska laaja puudutus joudutaan ajoittain muuttamaan yleisanestesiaksi.
 - Sedaatio on vasta-aiheinen, jos aspiraatioriski on suuri.
 
@@ -142,9 +151,9 @@ Aspiraation riskitekijät voidaan jakaa potilaaseen, leikkaukseen ja anestesiaan
 
 ![](images/aspiraatioriskitpotilas.png)
 
-## Amiodaroni 
+## Minkä tyypin lääke amiodaroni on? 
 
-Ei kysymyksenasettelua wikissä, mutta wikin vastauksesta päätellen voi myös kysymyksen päätellä. Minkä tyyppinen lääke amiodaroni on? 
+Ei vaihtoehtoja, mutta tulisi osata vastata ilman vinkkejä.
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -205,7 +214,7 @@ Sugammadeksi antagonisoi voimakkaankin salpauksen erittäin nopeasti, toisin kui
   </div>
 </div>
 
-## Minkä sokkityypin sokki sydäntamponaatio on? spinaalisokki
+## Minkä sokkityypin sokki sydäntamponaatio on?
 
 Ei vaihtoehtoja wikissä, mutta tulisi osata vastata ilman vinkkejäkin
 
@@ -222,14 +231,19 @@ Obstruktiivinen sokki johtuu ekstrakardiaalisesta pumppausvajaatoiminnan syystä
 
 ## Minkä sokkityypin sokki spinaalisokki on?
 
-Ei vaihtoehtoja wikissä, mutta tulisi osata vastata ilman vinkkejäkin
+Valitse yksi 
+
+- a. distributiivinen
+- b. obstruktiivinen
+- c. kardiogeeninen
+- d. hypovoleeminen
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
     Vastaus
   </button>
   <div class="solution-content">
-    Distributiivinen sokki 
+    a 
 
 Selkäydinvamma voi aiheuttaa ns. spinaalisokin, joka on distributiivisen sokin tyyppi. Spinaalisokki eroaa muista distributiivisista sokeista siten, että sille on tyypillistä bradykardia; mekanismi perustuu autonomisten välitysreittien häiriöön CNS-vaurion takia. 
 
@@ -406,12 +420,13 @@ Ei vaihtoehtoja wikissä, tässä tärkeimmät aiheesta:
 Puudutteiden systeemisiä haittavaikutuksia syntyy kahdella tavalla:
 
 - Puuduteannos voidaan ruiskuttaa vahingossa verisuoneen, jolloin veren puudutepitoisuus suurenee nopeasti ja mahdollisesti vakavatkin oireet ilmaantuvat pian
-- - Toisaalta puudute saattaa imeytyä hitaasti verenkiertoon teknisesti oikein suoritetun piston jälkeen ja aiheuttaa hitaasti suurenevan pitoisuuden seurauksena myrkytysoireita
+  - Toisaalta puudute saattaa imeytyä hitaasti verenkiertoon teknisesti oikein suoritetun piston jälkeen ja aiheuttaa hitaasti suurenevan pitoisuuden seurauksena myrkytysoireita
 - Jotta vältetään puudutemyrkytys imeytymisen seurauksena, niin puudutteilla on maksimimäärät / kg / vrk (tai kerta), joita ei saa ylittää
 
 **Lievä puudutemyrkytys aiheuttaa ensimmäisenä puutumisen tunnetta suun ympärillä, korvien soimista ja puheen puuroutumista. Myös metallin maku suussa on tyypillistä.**
 
 Puudute on ruiskutettava hitaasti ja puuduttaessa on syytä aina pitää puhekontakti potilaaseen, jotta nämä oireet havaittaisiin ajoissa.
+
 - Mikäli puudutepitoisuus kuitenkin suurenee, myrkytysoireina tulee ensin lihasnykäyksiä ja myöhemmin grand mal -tyyppisiä kouristuksia ja tajuttomuus.
 - **Hengityspysähdys ja verenkierron lama ovat hoitamattoman puudutemyrkytyksen pahimmat vaikutukset.**
 
@@ -444,6 +459,7 @@ Ei kysymyksenasettelua wikissä, vain aihe mainittu. Tässä tärkeimmät NIV:st
 NIV auttaa hoitamaan tyypin 2 hengitysvajausta eli hyperkapnista hengitysvajausta; laite auttaa tuulettamaan CO2:a, kun potilas ei siihen itse riittävästi pysty
 
 Jotkut kutsuvat CPAP-hoitoakin noninvasiiviseksi ventilaatioksi, mutta käytännössä se ei ole sitä, sillä CPAP ei mekaanisesti auta ventilaatiota 
+
 - CPAP:ssa on vain jatkuva positiivinen paine (continuous positive airway pressure), joka auttaa pitämään alveoleja auki 
 - On siis tärkeää ymmärtää, että CPAP-hoidossa potilas itse tekee kaiken hengitystyön: laite ei anna painetukea potilaan sisäänhengityksille. Jos potilas on liian väsynyt, voi CPAP-hoito olla riittämätön.
 - On kuitenkin hengitysvajauksen noninvasiivinen hoitokeino -> terminologia usein vääristyy ja CPAP:ia kutsutaan NIV:ksi usein
@@ -471,9 +487,11 @@ Ei vaihtoehtoja wikissä, koita vastata ilman vinkkejä
     Vastaus
   </button>
   <div class="solution-content">
-    N. yli 3g 
+    N. 90 mmol/l 
+    
+Grammoina n. 3,5g (miehille suositus; naisille n. 3100mg/vrk; tietysti suositukset hieman vaihtelevat painon mukaan)
 
-Kaliumin päivittäinen saantisuositus perusterveille miehille on vähintään 3 500 mg/vrk ja naisille 3 100 mg/vrk
+Tietysti suositukset hieman vaihtelevat painon mukaan. Useissa lähteissä on mainittu tarve 1mmol/kg/vrk (1 mmol = 39.1g) ja tästä laskien esim. 50kg potilas tarvitsee n. 2g kaliumia päivässä. 
   </div>
 </div>
 
@@ -514,7 +532,7 @@ Ei vaihtoehtoja wikissä, koita vastata ilman vinkkejä
   <div class="solution-content">
     Aikaisintaan 6kk päästä
 
-Nykyään käytetään yleensä lääkestenttejä ja niiden yhteydessä DAPT (kaksoishiutaleenestäjälääkitystä eli ASA + P2Y12-estäjä, kuten klopidogreeli) tyypillisesti n. 12kk ajan, joka on äärettömän tärkeä lääkitys estämään stenttitromboosia. 
+Nykyään käytetään yleensä lääkestenttejä ja niiden yhteydessä DAPT (kaksoishiutaleenestäjälääkitystä eli ASA + P2Y12-estäjä, kuten klopidogreeli) tyypillisesti n. 12kk ajan, ja DAPT on äärettömän tärkeää estämään stenttitromboosia. 
 
 Tromboosinestolääkitystä sepelvaltimostentin jälkeen ei saa ilman todella painavaa syytä keskeyttää 6 viikon sisällä metallistentin eikä 6 kuukauden sisällä lääkeainestentin asennuksesta. 
 
@@ -533,15 +551,11 @@ Keskeytyksen yhteydessä ei tarvita rutiinimaista siltahoitoa glykoproteiini (GP
 Ei vaihtoehtoja wikissä, mutta tässä tärkeimmät heräämövaiheesta:
 
 - Heräämössä jatketaan yleensä vähintään pulssioksimetriaa, noninvasiivista verenpaineen seurantaa ja EKG-seurantaa
-- Seurataan kipua, tajuntaa ja orientaatiota, pahoinvointia,
-haavan tilannetta, dreenivuotoa, diureesia, kognition toipumista
-  - Hemodynamiikan lievä labiilius, niukka diureesi ja shivering-tyyppinen
-tärinä ovat tavallisia ongelmia heräämöhoidon aikana
-- Potilaan psyykkistä tilaa seurataan; leikkausta edeltävä jännitys voi joskus purkautua psyykkisenä
-ahdistuksena heräämövaiheessa, ja joskus leikkauksessa on selvinnyt sairauden huono ennuste
+- Seurataan kipua, tajuntaa ja orientaatiota, pahoinvointia, haavan tilannetta, dreenivuotoa, diureesia, kognition toipumista
+  - Hemodynamiikan lievä labiilius, niukka diureesi ja shivering-tyyppinen tärinä ovat tavallisia ongelmia heräämöhoidon aikana
+- Potilaan psyykkistä tilaa seurataan; leikkausta edeltävä jännitys voi joskus purkautua psyykkisenä ahdistuksena heräämövaiheessa, ja joskus leikkauksessa on selvinnyt sairauden huono ennuste
 
-Seuranta-aika heräämössä vaihtelee potilaittain ja leikkauksittain 0 min:sta
-(perifeerinen puudutus, ei sedaatiota) jopa yön yli (esim. elektiivinen kraniotomia)
+Seuranta-aika heräämössä vaihtelee potilaittain ja leikkauksittain 0 min:sta (perifeerinen puudutus, ei sedaatiota) jopa yön yli (esim. elektiivinen kraniotomia)
 
 Kaikkia invasiivisia menetelmiä puretaan mahdollisuuksien mukaan vähitellen pois, koska vuodeosastot eivät yleensä ota potilasta vastaan, jos tällä on esim. arteriakanyyli.
 
@@ -570,6 +584,7 @@ Puhtaasti alveolitason kaasujenvaihtohäiriöstä johtuva hengitysvajaus johtaa 
 - Tyypissä 2 myös aina mukana hypoksemiaa, jos ei anneta lisähappea
 
 ![](images/hengitysvajaus.png)
+
 Kolme yleismekanismia hypoksemian syntymiselle ovat:
 
 - Matala alveolikaasun happiosapaine
@@ -592,7 +607,8 @@ Hyperkapnian eli tyypin 2 hengitysvajauksen syitä voi olla heikentynyt kokonais
 Hoito
 
 - Karkeasti katsottuna akuutti tyypin 1 hengitysvajaus tarvitsee happihoitoa (lisähappi), kun tyypin 2 hengitysvajaus vaatii noninvasiivista ventilointia (NIV), jotta ylimääräinen hiilidioksidi saadaan puhallettua pois. 
-  - Myös tyypin 2 hengitysvajauksessa (hyperkapninen hengitysvajaus, pääasiassa hypoventilaatiosta johtuvaa) voidaan antaa tarvittaessa happilisää, jos pelkkä ventilaatiotuki ei korjaa samaan aikaan aina esiintyvää hypoksemiaa hyperkapniseen (ventilaatiovajaukseen liittyy aina myös hypoksemia) (lisähappea tulee antaa varovasti keuhkokroonikolle, jos ei pysty seuraamaan CO2 kertymistä);   - NIV toteutetaan pääasiassa kaksoispaineventilaattoreilla (2PV), joissa sisään (IPAP)- ja uloshengityksen paine (EPAP) voidaan säätää erikseen -> näiden erotus eli painetuki (PS) auttaa tuulettamaan CO2, kun potilas ei siihen itse riittävästi pysty. Painetuen (PS) tulee olla riittävä hengitystyön vähentämiseksi (yleensä 6–20 cmH2O). 
+  - Myös tyypin 2 hengitysvajauksessa (hyperkapninen hengitysvajaus, pääasiassa hypoventilaatiosta johtuvaa) voidaan antaa tarvittaessa happilisää, jos pelkkä ventilaatiotuki ei korjaa samaan aikaan aina esiintyvää hypoksemiaa hyperkapniseen (ventilaatiovajaukseen liittyy aina myös hypoksemia) (lisähappea tulee antaa varovasti keuhkokroonikolle, jos ei pysty seuraamaan CO2 kertymistä);   
+  - NIV toteutetaan pääasiassa kaksoispaineventilaattoreilla (2PV), joissa sisään (IPAP)- ja uloshengityksen paine (EPAP) voidaan säätää erikseen -> näiden erotus eli painetuki (PS) auttaa tuulettamaan CO2, kun potilas ei siihen itse riittävästi pysty. Painetuen (PS) tulee olla riittävä hengitystyön vähentämiseksi (yleensä 6–20 cmH2O). 
 
 
 ## Mistä anelääkärin ei pidä huolehtia leikkauksen aikana?

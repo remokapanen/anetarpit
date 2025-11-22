@@ -1,31 +1,193 @@
-# Sharing your book
+# 2025 
 
-## Publishing
+Paljon aikaisempia tärppejä, tässä vain uusia tai muokattuja. 
 
-HTML books can be published online, see: https://bookdown.org/yihui/bookdown/publishing.html
+## Potilastapaus
 
-## 404 pages
+78v mies ollut polviproteesileikkauksessa ja nyt vuodeosastolla. Nähty lounaalla ja nyt kello 14 hoitaja löytää potilaan viileänä ja elottomana, elvytetäänkö? 
 
-By default, users will be directed to a 404 page if they try to access a webpage that cannot be found. If you'd like to customize your 404 page instead of using the default, you may add either a `_404.Rmd` or `_404.md` file to your project root and use code and/or Markdown syntax.
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    Ei elvytetä
 
-## Metadata for sharing
+Potilaalla havaittavissa sekundaarisia eli toissijaisia kuolemanmerkkejä (viileys; muita olisi lautumat, kuolonkankeus, kuivuminen, hajoaminen sekä mätäneminen), koska hän on ollut jo hetken kuollut. Mikäli sekundaarisia kuolemanmerkkejä on havaittavissa, on kuolema pysyvää, eikä elvytystä tarvitse enää harkita. Tietysti voidaan tarkistaa pulssi ja jopa mitata rytmi, mutta jos näissä todetaan asystole, niin potilasta ei elvytetä. 
 
-Bookdown HTML books will provide HTML metadata for social sharing on platforms like Twitter, Facebook, and LinkedIn, using information you provide in the `index.Rmd` YAML. To setup, set the `url` for your book and the path to your `cover-image` file. Your book's `title` and `description` are also used.
+![](images/elvytyksestäpidättäytyminen.png)
+  </div>
+</div>
+
+## Potilasta elvytetty neljän rytmintarkistuksen verran, mitkä elvytyslääkkeet annettu jos toimittu hoitoelvytyskaavion mukaan?
+
+Ei vaihtoehtoja, mutta pitäisi osata vastata ilman vinkkejä
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    Riippuu rytmistä
+    
+Jos defibrilloitava rytmi, niin on kulunut 300mg amiodaronia ja adrenaliinia 1mg 
+
+Jos ei-defibrilloitava rytmi, niin on kulunut 2mg adrenaliinia (jos suoniyhteys saatiin nopeasti; ei-defibrilloitavassa rytmissä adrenaliinia pyritään annostelemaan mahdollisimman nopeasti)
+
+![](images/elvytyslääkejatkumo.png)
+  </div>
+</div>
+
+## Ensimmäisen rytmintarkistuksen jälkeen sinustakykardia. Mitä teet? 
+
+Valitse yksi: 
+
+- a. Jatkan painelua ja defibrilloin ensi tarkistuksessa
+- b. Defibrilloin heti
+- c. Lopetan painelun ja seuraan vointia
+- d. Joku (ei wikissä)
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    d 
+    
+Jos toteat elvytyksen rytmintarkistustauolla rytmin, joka voisi kuljettaa verta, niin palpoi pulssit ja jos niitä ei ole tunnettavissa tai elonmerkkejä havaittavissa, on kyseessä PEA (pulseless electrical acitivity; voi näyttää sinukselta), joka on ei-defibrilloitava rytmi ja elvytystä tulee jatkaa ei-defibrilloitavan rytmin hoitokaavion mukaisesti. 
+
+a ja b: Ei siis defibrilloida, koska ei ole kyseessä defibrilloitava rytmi (VT tai VF) 
+
+c: Seuraan vointia on huono ohje, pulssit tulisi palpoida eikä vain tuijottaa potilasta 
+
+d: Ehkä vaihtoehdoissa ollut pulssien palpoiminen, jolloin se olisi oikea vastaus. Muutoin c voi myös olla oikea, jos d olisikin selvästi väärin. 
+
+![](images/elvytyshorisontaalinen.png)
+
+![](images/hoitoelvytys.png)
+  </div>
+</div>
+
+## Mikä näistä ei pidä paikkaansa hyponatremiaan liittyen?
+
+Valitse toinen 
+
+- a. Hyponatremia täytyy korjata mahdollisimman nopeasti ja jotain muuta
+b. 3 muuta vaihtoehtoa
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    a
+    
+Hyponatremian hoidossa on tärkeää, että tasoja ei nosteta liian nopeasti, koska se altistaa ponsin myelinolyysille. 
+  </div>
+</div>
+
+## Opioidien metabolia
+
+Valitse toinen 
+
+- a. Kodeiini metaboloituu sytokromientsyymin kautta
+- b. Oksikodoni metaboloituu CYP2D6 kautta
 
 
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    Molemmat sinänsä totta
+    
+a: Kodeiini metaboloituu CYP2D6 kautta ja CYP-entsyymit ovat siis sytokromi-P450-entsyymejä 
 
-This `gitbook` uses the same social sharing data across all chapters in your book- all links shared will look the same.
+b: Oksikodoni metaboloituu maksassa CYP3A4- ja CYP2D6-välitteisesti noroksikodoniksi, oksimorfoniksi ja noroksimorfoniksi, jotka taas glukuronidoituvat. Metaboliittien vaikutuksella yleiseen farmakodynaamiseen vaikutukseen ei ole oleellista merkitystä.
 
-Specify your book's source repository on GitHub using the `edit` key under the configuration options in the `_output.yml` file, which allows users to suggest an edit by linking to a chapter's source file. 
+Jos vain toinen tulisi valita, niin a on enemmän oikein. 
+  </div>
+</div>
 
-Read more about the features of this output format here:
+## Tulehduskipulääkkeiden haittavaikutukset
 
-https://pkgs.rstudio.com/bookdown/reference/gitbook.html
+Valitse yksi 
 
-Or use:
+- a. Munuaisten vajaatoimintaa
+- b. GI-kanavan haavaumia
+- c. Jotain hyytymisjuttuja
+- d. Kaikki yllä olevat
 
-```{r eval=FALSE}
-?bookdown::gitbook
-```
 
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    d
 
+Kaikki ovat tunnettuja NSAIDien haittavaikutuksia. 
+
+a: Estävät afferentin arteriolin dilataatiota ja sitä kautta heikentävät glomeruluksen perfuusiota 
+
+b: Estävät mukoosaa suojaavien prostaglandiinien tuotantoa ja siten altistavat ulkuksille. 
+
+c: NSAIDeilla on sekä vuotoalttiutta että tromboosialttiutta (varsinkin sydänpotilailla sepelvaltimoissa) aiheuttava vaikutus. 
+  </div>
+</div>
+
+## Elvytyksen nestehoito
+
+Valitse yksi
+
+- a. Isotoninen, glukoositon kristalloidi
+- b. Isotoninen, glukoosillinen kristalloidi
+- c. Muita vaihtoehtoja
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    a
+
+Useimmiten käytetään Ringeriä, sokeria ei tarvita, ellei potilaalla ole hypoglykemiaa sydänpysähdyksen taustalla. 
+
+Huom. varsinaista nestehoitoa tai nesteytystä ei elvytystilanteessa tarvita, ellei sydänpysähdyksen syynä epäillä hypovolemiaa, mutta lääkkeet tulee huuhtoa pienellä nestemäärällä keskeiseen verenkiertoon  
+  </div>
+</div>
+
+## K-vitamiini
+
+Valitse yksi
+
+- a. Voidaan käyttää siltahoitona jos INR on vaarallisen matala
+- b. K-vitamiini kumoaa varfariinin vaikutuksen hyytymisjärjestelmään
+- c. K-vitamiinilla voidaan kumota NOAC vaikutus
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    b
+
+Varfariini on AK-lääke, joka häiritsee K-vitamiiniriippuvaisten hyytymistekijöiden (2,7,9,10) gammakarboksylaatiota. Varfariini estää estää maksan mikrosomeissa K-vitamiiniepoksidireduktaasia ja tämän seurauksena pelkistyneen K-vitamiinin määrä vähenee, γ-karboksylaatio estyy ja K-vitamiinista riippuvien hyytymistekijöiden II, VII, IX ja X toiminta häiriintyy. 
+
+Ravinnon suuri K-vitamiinipitoisuus ja K-vitamiinivalmisteiden käyttö vähentävät varfariinin vaikutusta. Tätä vaikutusta voidaan hyödyntää varfariinin vaikutuksen kumoamisessa tarkoituksellisesti, kun potilaalle annetaan K-vitamiinia.
+  </div>
+</div>
+
+## Rabdomyolyysistä jotain vaihtoehtoja ja valitse mikä väärin. 
+
+Väärin oli ilmeisesti joku vaikeutta arvioidaan ISBAR-luokituksella 
+
+- ISBAR on siis kommunikaatioframework eikä ole rabdomyolyysin vaikeusasteen arvioimiseen tarkoitettu työkalu
+
+## Annettu vitaaleja ja kysytty ylittyykö MET- kriteerit
+
+Ei arvoja tärpeissä, mutta tässä NEWS-pisteytystaulukko. Jos NEWS on 7 tai yli, niin MET-hälytys tehdään 
+
+Ilman taulukon ulkoa muistamistakin voi vitaaleista päätellä, että onko potilas stabiili vai ei, ja jos vaikuttaa epästabiililta tai muuten herää merkittävä huoli potilaasta, niin tehdään MET-hälytys. 
+
+![](images/news.png)

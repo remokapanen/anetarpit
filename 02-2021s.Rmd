@@ -1,4 +1,8 @@
-# Mistä alla olevista potilaista kuuluu tehdä MET-hälytys? 
+# 2021 (Sisäänpääsytentti)
+
+Tähän laitettu vain ne, jotka soveltuvat helposti tällaiseen kysymysformaattiin (ei esim. yhdistelytehtäviä). 
+
+##  Mistä alla olevista potilaista kuuluu tehdä MET-hälytys? 
 
 Valitse yksi tai useampi
 
@@ -15,8 +19,99 @@ Valitse yksi tai useampi
      c ja d 
 
 a ja b: Ei vikaa hengityksessä tai hemodynamiikassa 
+
 c: Potilas hemodynaamisesti epävakaa   
+
 d: Potilaan hengitys herättää huolta ja tarvitsee tarkempaa arviointia ja hoitoa 
   </div>
 </div>
 
+## Mitkä ovat tärkeimmät tekijät potilaan tehohoitokelpoisuutta arvioitaessa? 
+
+Vaitse yksi tai useampi
+
+- a. Potilaan sukupuoli
+- b. Pelkästään ikä
+- c. Merkittävien perussairauksien vaikeusaste
+- d. Potilaan yleinen toimintakyky
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     c ja d 
+
+a: Sukupuolella ei ole merkittävää merkitystä tehohoidon suhteen
+
+b: Ikä voi vaikuttaa päätöksentekoon hieman, mutta se tulee aina suhteuttaa potilaan muuhun tilaan (pelkkä korkea ikä ei estä hoitoa) 
+
+c: Esim. vaikea sepelvaltimotauti, COPD tai munuaisten vajaatoiminta saattavat huonontaa ennustetta huomattavasti 
+
+d: Yleinen toimintakyky on äärimmäisen tärkeä asia tehohoitoon ottamisesta päätettäessä. 
+
+![](images/teho.png)
+![](images/toimintakyky.png)
+![](images/ikä.png)
+  </div>
+</div>
+
+## Potilastapaus
+
+28-vuotias mies käynyt syömässä pizzaa klo 12 ja kotimatkalla murtanut nilkkansa. Päivystyksessä todettu leikkausta vaativa nilkkamurtuma. Anestesiamuodoksi valittu spinaalipuudutus. Leikkaussalissa on tilaa ja potilas voisi siirtyä sinne heti. Koska potilaan voi aikaisintaan puuduttaa? 
+
+- a. Potilas on anestesiakelpoinen heti seuraavana aamuna paastottuaan yön yli
+- b. Aikaisintaan klo 18
+- c. Potilaan saa puuduttaa heti 
+- d. Aikaisintaan klo 16
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     b 
+
+Ennen leikkausta tulisi olla 6 tuntia syömättä ja 2 tuntia juomatta kirkkaita nesteitä. Tämä pätee myös tilanteeseen, jossa ei olla yleisanestesiassa, vaan sedatoituna ja puudutettuna, koska niissäkin on korkea aspiraatioriski.
+  </div>
+</div>
+
+## Kuinka suuri on aikuisen 50kg painavan potilaan veritilavuus? 
+
+Valitse yksi
+
+- a. 5000 ml
+- b. 3500 ml
+- c. 7500 ml
+- d. 2000 ml 
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     b
+
+Nestetilat kehossa menee näin: 60% painosta on nestettä. Tästä nesteestä 2/3 on solunsisäistä nestettä ja 1/3 solunulkoista. Solunulkoisesta nesteestä 75-80% on interstitiaalinestettä ja 20-25% plasmaa. 50kg henkilöllä siis 50kgx(1/3)x(1/5)=3.3 kg (jos olisi 25% verta niin olisi n. 4200ml) eli lähimpänä on 3500 ml. 
+  </div>
+</div>
+
+## Mikä potilaan GCS-pistemäärä on, kun potilas avaa silmät puheelle, puhuu sekavia ja torjuu kivun? 
+
+Valitse yksi 
+
+- a. 6
+- b. 15
+- c. 3
+- d. 11
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     d
+
+![](images/gcs.png)
+  </div>
+</div>

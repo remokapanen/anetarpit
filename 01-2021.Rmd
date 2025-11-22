@@ -37,13 +37,13 @@ Lihasrelaksaatiota seurataan useimmiten TOF-stimulaatiolla (train of four). Liha
 TOF-mittari mittaa T1 ja T4 vasteen suhdetta. TOF-suhde eli TR on T1/T4. Kun potilas siiretään heräämöön, niin suhteen tulisi olla 0.9 (TR) eli >90% (TOF%), jotta voidaan olettaa hengityslihasten ja hengitysteiden suojaheijasteiden palanneen turvalliselle tasolle jäännösrelaksaation poissulkemiseksi.
 
 Leikkauksen aikana viimeiset TOF-vasteet ovat tyypillisesti poistettu lihasrelaksaatiolla, mutta se ei tyypillisesti ole tavoitteellista, että kaikki signaalit hävitettäisiin (leikkauksen vaatimuksesta riippuen tyypillisesti 1-2 ensimmäistä signaalia vielä todettavissa). Kun lihasrelaksaatiota aletaan kumoamaan sugammadeksillä, niin ei tarvitse huolehtia siitä, onko lihasrelaksaatio kuinka syvä, vaan voi annostella syvästäkin relaksaatiosta lähtien (neostigmiiniä käytettäessä vähintään kahden ensimmäisen TOF-vasteen tulee olla näkyvissä vasta-aineen antohetkellä).
+
+![](images/tof.png)
   </div>
 </div>
 
 
 ## Mihin tarkoitukseen käytetään sevofluraania?
-
-Sevofluraani on yleisimmin käytetty inhalaatioanesteetti ja sitä käytetään yleisanestesian ylläpitokaasuna (lapsilla voidaan käyttää myös induktioon).
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -109,6 +109,8 @@ Nuori ikä (! huom ei siis vanha ikä)
 Tupakoimattomuus (! huom ei siis tupakointi; tupakointi itse asiassa suojaa PONV:lta)
 
 Tietyt leikkaustyypit kuten KNK-leikkaukset 
+
+![](images/ponvriskitekijät.png)
   </div>
 </div>
 
@@ -389,7 +391,7 @@ Keskivahvat opioidit (buprenorfiini)
 Vahvat opioidit (pääasiassa morfiini, oksikodoni, fentanyyli) 
 
 - Morfiini metaboloituu pääosin glukuronisoitumalla. Tärkeimmät metaboliitit ovat analgeettisesti inaktiivinen morfiini-3-glukuronidi ja farmakologisesti aktiivinen morfiini-6-glukuronidi, jonka vaikutukset ovat samanlaiset kuin morfiinin. Glukuronisaatiota tapahtuu ekstrahepaattisesti, eikä maksakirroosi vaikuta merkittävästi puhdistumaan. 
-- Oksikodonin pääasiallinen metabolia tapahtuu CYP3A4:n kautta, pienempi osa metaboloituu CYP2D6:n välityksellä. Jälkimmäisen metabolian tuotteena syntyy pieni määrä oksimorfonia, joka on hyvin tehokas opioidi.
+- Oksikodonin pääasiallinen metabolia tapahtuu CYP3A4:n kautta, pienempi osa metaboloituu CYP2D6:n välityksellä. Jälkimmäisen metabolian tuotteena syntyy pieni määrä oksimorfonia, joka on hyvin tehokas opioidi. Pääasiassa kuitenkaan metaboliiteilla ei ole oikein merkitystä. 
 - Fentanyyli metaboloituu CYP3A4:n välityksellä lähes täydellisesti maksassa, joten sitä ei voi antaa suun kautta
 
 ## Mitä PEEP tarkoittaa?
@@ -401,7 +403,7 @@ Vahvat opioidit (pääasiassa morfiini, oksikodoni, fentanyyli)
   <div class="solution-content">
      Positive-end expiratory pressure
      
-Tarkoittaa siis alveolipainetta uloshengityksen loppuvaiheessa. Tämä pidetään positiivisena esim. antamalla CPAP-laitteella jatkuvasti ilmavirtaa paineella keuhkoihin, joka pitää alveolit auki. 
+Tarkoittaa siis alveolipainetta uloshengityksen loppuvaiheessa. Tämä pidetään positiivisena esim. antamalla CPAP-laitteella jatkuvasti ilmavirtaa paineella keuhkoihin, mikä pitää alveolit auki. 
   </div>
 </div>
 
@@ -466,7 +468,7 @@ Koita vastata ilman vaihtoehtoja
   <div class="solution-content">
     Monia eri lääkkeitä
 
-Esim. kipulääke (paracetamol, NSAID, opioidit), pahoinvointia ehkäisevä lääke (ondansetron (yleensä leikkauksen loputtua), betametasoni (yleensä ennen leikkausta)), antibioottiprofylaksia (metronidatsoli esim), kortikosteroidi tarpeen mukaan (betametasoni, pahoinvoinnin estoon myös), puudutukset (esim. bupivakaiini spinaalipuudutteena), rauhoittavat lääkkeet (esim. midatsolaami) 
+Esim. kipulääke (paracetamol, NSAID, opioidit), pahoinvointia ehkäisevä lääke (ondansetron (yleensä leikkauksen loputtua), betametasoni (yleensä ennen leikkausta pahoinvoinnin estoon)), antibioottiprofylaksia (metronidatsoli esim), puudutukset (esim. bupivakaiini spinaalipuudutteena), rauhoittavat lääkkeet (esim. midatsolaami) 
   </div>
 </div>
 
@@ -474,13 +476,13 @@ Esim. kipulääke (paracetamol, NSAID, opioidit), pahoinvointia ehkäisevä lä�
 
 Ei vaihtoehtoja wikissä, mutta tässä tärkeimmät aiheesta: 
 
-_ PONV on lyhenne, joka tarkoittaa leikkauksen jälkeistä pahoinvointia ja oksentelua; 20–30 % leikkauspotilaista kärsii oireista
+- PONV on lyhenne, joka tarkoittaa leikkauksen jälkeistä pahoinvointia ja oksentelua; 20–30 % leikkauspotilaista kärsii oireista
 - Ehkäisy parasta hoitoa: Ennen leikkausta mm. betametasoni ehkäisemään pahoinvointia ja nopeasti leikkauksen jälkeen esim. ondansetronia. Nestetasapaino, suolentoiminta ja kipu kuntoon myös. Mahdollisuuksien mukaan tulee myös valita potilaalle parhaiten sopiva anestesiamuoto (esim. propofoli parempi kuin inhalaatioanestetiikka, jos taustalla jo aikaisempaa PONV) 
 - Itse pahoinvoinnin hoidossa ondansetroni (tai granisetroni) ja DHBP (droperidoli, ei parkinsonpotilaile) parhaita, muista QT-aikaa pidentävä vaikutus setroneilla (hidastaa myös paksusuolen vetoa); kortikosteroideilla ei ole vaikutusta jo kehittyneeseen pahoinvointiin (toimivat vain estävinä lääkkeinä)
 - Vaikeissa tapauksissa neurokinaasi-1-salpaajat (aprepitantti ja fosaprepitantti) mahdollisia vaihtoehtoja 
 - Metoklopramidia käytetään nykyään vain vähän (huono teho ja ekstrapyramidaalivaikutukset -> ei etenkään parkinsonpotilaille)
 
-## Mitä haasteita pulssioksimetrissä on?
+## Mitä haasteita/virhelähteitä pulssioksimetrissä on?
 
 Ei vaihtoehtoja wikissä, mutta tässä tärkeimmät huomioitavat asiat: 
 
@@ -634,7 +636,7 @@ Muistisääntö, joka auttaa muistamaan hoidettavissa olevat sydänpysähdyksen 
 
 4 H: 1) hypoksia, 2) hypovolemia, 3) hypo- tai hyperkalemia, -kalsemia, -magnesemia tai -glykemia, 4) hypo- tai hypertermia
 
-4 T: 1) tensiopneumothorax eli paineilmarinta, 2) sydäpussin tamponaatio, 3) tromboosi, 4) toksiinit eli myrkytys
+4 T: 1) tensiopneumothorax eli paineilmarinta, 2) sydänpussin tamponaatio, 3) tromboosi, 4) toksiinit eli myrkytys
 
 ![](images/4h4t.png)
   </div>
@@ -706,7 +708,7 @@ Tauotuksessa konsultoi aina muita lääkäreitä (kardio, neuro jne), aina on ti
 
 Aktiivinen AK-hoito ei estä nukuttamista, mutta estää epiduraali- ja spinaalipuudutuksen lisääntyneen vuotovaaran takia. 
 
-- Jos tauotus on riskialtista, ei tauoteta anestesian mahdollistamiseksi, ellei kyseessä oleva anestesiamuodon valinnalle ole painavia perusteita (esim. vaikea keuhkosairaus -> spinaalipuudutus parempi kuin yleisanestesia)
+- Jos tauotus on riskialtista, ei tauoteta anestesian mahdollistamiseksi, ellei kyseessä olevan anestesiamuodon valinnalle ole painavia perusteita (esim. vaikea keuhkosairaus -> spinaalipuudutus parempi kuin yleisanestesia)
 
 ## Mikä on akuuttihoidon ABCDE?
 
@@ -742,10 +744,12 @@ Vaikeus/kykenemättömyys puhua, poikkeavat hengitysäänet (stridor, kuorsaus, 
 Hengitys = happeutuminen + ventilaatio
 
 Ongelma voi olla :
+
 - hapetushäiriö (SpO2 tai PaO2 matala) eli tyypin 1 hengitysvajaus -> lisähappea (muista: COPD-potilailla älä ylihapeta, 88-92% saturaatio riittää); lisähapesta kannattaa muistaa yleisesti, että sillä voi olla haittojakin (altistaa atelektaaseille ja happiradikaalien toksisille vaikutuksille)
 - ja/tai ventilaatiovajaus (CO2 retentio, resp. asidoosi, eli korkea EtCO2 tai PaCO2) eli tyypin 2 hengitysvajaus -> ventilaation tuki (ensisijaisesti 2PV eli bipap, jossa sisään- ja uloshengityksen paine-ero tuottaa mekanistisesti ventilaatiota)
 
 **Karkeasti katsottuna siis, akuutti tyypin 1 hengitysvajaus tarvitsee happihoitoa, kun tyypin 2 hengitysvajaus vaatii noninvasiivista ventilointia (NIV)**
+
 - Myös tyypin 2 hengitysvajauksessa (hyperkapninen hengitysvajaus, pääasiassa hypoventilaatiosta johtuvaa) voidaan antaa tarvittaessa happilisää, jos pelkkä ventilaatiotuki ei korjaa samaan aikaan aina esiintyvää hypoksemiaa hyperkapniseen (ventilaatiovajaukseen liittyy aina myös hypoksemia) (lisähappea tulee antaa varovasti keuhkokroonikolle, jos ei pysty seuraamaan CO2 kertymistä); NIV toteutetaan pääasiassa kaksoispaineventilaattoreilla (2PV), joissa sisään- ja uloshengityksen paine voidaan säätää erikseen -> auttaa tuulettamaan CO2, kun potilas ei siihen itse riittävästi pysty
 - Tyypin 1 hengitysvajaus on pääasiassa hypokseeminen -> annetaan happea; NIV-hoitoa voidaan käyttää myös hypokseemisissa hengitysvajauksissa, mutta sydämen vajaatoiminnasta johtuvaa keuhkoödeemaa lukuun ottamatta näyttö hoidon tehosta on ollut vaihtelevaa
 
@@ -797,7 +801,8 @@ Ei muuten tarkempaa kysymyksenasettelua wikissä, tässä tärkeimmät aiheesta:
 - Hypovoleeminen: Nestettä vuotaa ja haihtuu vamma-alueelta sekä yleisen permeabiliteetin nousun takia nestettä häviää interstitaalitilaan lopulta johtaen efektiiviseen hypovolemiaan 
 - Kardiogeeninen: Kiertävät tulehdusvälittäjäaineet lisäävät happiradikaalien tuotantoa ja tämä voi johtaa vaurioihin ympäri kehoa, mm. sydämen myokardiumiin. Tämä vähentää sydänlihaksen kontraktiliteettia ja laskee minuuttitilavuutta johtaen kardiogeeniseen sokkiin. Minuuttitilavuuden vähentämistä ja sydänlihasstressiä lisää afterloadin reaktiivinen nousu plasmatilavuuden vähentyessä. 
 ![](images/palosokki.png)
-### Mitä laajan palovamman ensivaiheen väistyttyä tapahtuu?
+
+## Mitä laajan palovamman ensivaiheen väistyttyä tapahtuu?
 
 Wikissä näin kirjoitettu:
 
@@ -810,10 +815,11 @@ Ei kysymyksenasettelua wikissä, vain aihe mainittu. Tässä lyhyesti astrupin t
 Katso pH, pCO2, HCO3 (tai BE). Näistä voit päätellä, mikä happo-emästasapainon häiriö on kyseessä. CO2 kuvaa respiratorista komponenttia ja HCO3 (samoin BE) kuvastavat metabolista komponenttia. Jos ei ymmärrä aihetta, niin kannattaa opiskella asia täysin uudestaan, mutta tässä nopea muistisääntö astruppien tulkitsemiseen: ROME 
 
 - Respiratory Opposite, Metabolic Equal 
-- Jos asidoosi/alkaloosi johtuu respiratorisesta syystä, niin pCO2:n suunta on eri suuntaan kuin metabolisen häiriön. Esimerkiksi jos kyseessä on respiratorinen asidoosi, niin pH menee alas (asidoosi), kun taas CO2 menee ylös (respiratorinen asidoosi). Samoin respiratorisessa alkaloosissa CO2 menee alas. 
-- Jos asidoosi/alkaloosi johtuu metabolisesta syystä, niin HCO3:n suunta on samaan suuntaan kuin metabolisen häiriön. Esimerkiksi jos kyseessä on metabolinen asidoosi, niin pH menee alas (asidoosi), ja HCO3 menee myös alas (metabolinen asidoosi). Samoin metabolisessa alkaloosissa HCO3 nousee.
+- Jos asidoosi/alkaloosi johtuu respiratorisesta syystä, niin pCO2:n suunta on eri suuntaan kuin pH:n häiriö. Esimerkiksi jos kyseessä on respiratorinen asidoosi, niin pH menee alas (asidoosi), kun taas CO2 menee ylös (respiratorinen asidoosi). Samoin respiratorisessa alkaloosissa CO2 menee alas. 
+- Jos asidoosi/alkaloosi johtuu metabolisesta syystä, niin HCO3:n suunta on samaan suuntaan kuin pH:n häiriö. Esimerkiksi jos kyseessä on metabolinen asidoosi, niin pH menee alas (asidoosi), ja HCO3 menee myös alas (metabolinen asidoosi). Samoin metabolisessa alkaloosissa HCO3 nousee.
 
 Happo-emäsepätasapainoa yritetään myös aina kompensoida. Respiratorisessa syyssä metabolinen puoli kompensoi ja metabolisessa syyssä respiratorinen puoli kompensoi. 
+
 - Kompensaatio voi olla osittaista (pH ei ole normaali, mutta kompensaation merkkejä näkyy astrupissa) tai täydellistä (pH on normalisoitunut)
 - Kompensaationuolen suunta on sama kuin aiheuttaneen muutoksen (esim. metabolisessa asidoosissa HCO3 matala -> kompensatorisesti hengitys tiheytyy ja CO2 laskee myös)
 
@@ -828,9 +834,13 @@ Viitealueet on myös hyvä osata ulkoa:
 
 ## Kanyylien värit
 
-Ei kysymyksenasettelua, tässä värit ja niiden koot taulukoituna. Aikuisille menee yleensä n. pinkin kokoinen, isompaa sitten tarvittaessa. 
+Ei kysymyksenasettelua, tässä värit ja niiden koot taulukoituna. Aikuisille menee kiireettömässä tilanteessa yleensä n. pinkin kokoinen, isompaa sitten tarvittaessa (esim. ravitsemushoitoon, kuvantamisen tarpeisiin ja verituotteiden antoon suositellaan suurempia kokoja) . Pienin aikuisilla käytettävä kanyyli on yleensä 22G (sininen). Kannattaa huomioida, että se on varsin lyhyt; esimerkiksi kyynärtaipeessa se saattaa käytössä luiskahtaa suonesta pois.
+
+Lapsille taaperoikäisestä kouluikäiseen soveltuu yleensä sininen (22G) kanyyli. Isommankin saa tosin usein asennettua. Aivan pienimmille potilaille käytetään violettia (26G) tai keltaista (24G) kanyyliä, joka asetetaan imeväisillä varsin usein pään alueen näkyvään laskimoon.
 
 ![](images/kanyylit.png)
+
+![](images/kanyylitlivenä.png)
 
 ## Opioidit kroonisen neuropaattisen kivun hoidossa
 
@@ -885,7 +895,7 @@ Ei tarkempaa kysymyksenasettelua tai vaihtoehtoja wikissä, mutta tässä tärke
 - Hoidon kulmakivet ovat kaliumpitoisuutta pienentävien lääkkeiden lopettaminen ja kaliumvajauksen (sekä mahdollisen magnesiumvajauksen) korjaus
 - Kaliumvajaus korjataan ensisijaisesti suun kautta antamalla 2–6 g kaliumkloridia (esim. kaleroid-tabletti tai kalisol oraaliluoksena; ps. näiden ongelmat ovat kaleorid-tabletin suuri koko (vaikea niellä) ja kalisolin paha maku). Laskimoon kaliumia voidaan infusoida enintään 20 mmol tunnissa. Perifeeriseen laskimoon kalium infusoidaan glukoosiliuoksena (40 mmol/l), koska vahvempi ärsyttää suonia liikaa; sentraaliseen suoneen voidaan antaa väkevämpiä liuoksia ja myös nopeammin. 
 - Hypomagnesemia korjataan infusoimalla magnesiumsulfaattia 40–60 mmol/vrk tai suun kautta käyttämällä magnesiumia sisältäviä valmisteita (Emgesan®, Miral®) 0,5-1,5 mmol/kg/vrk
-- Kaliumpitoisuutta pienentävistä lääkkeistä tärkeimpiä ovat diureetit, kuten tiatsidit ja loop-diureetit (kaliumia säästäviä diureetteja on esim. spironolaktoni). Insuliini on myös tärkeä kaliumia laskeva lääke ja insuliinin liika-annostelu voi aiheuttaa hypokalemiaa. s
+- Kaliumpitoisuutta pienentävistä lääkkeistä tärkeimpiä ovat diureetit, kuten tiatsidit ja loop-diureetit (kaliumia säästäviä diureetteja on esim. spironolaktoni). Insuliini on myös tärkeä kaliumia laskeva lääke ja insuliinin liika-annostelu voi aiheuttaa hypokalemiaa.
 
 
 ## Mitkä tekijät voivat estää leikkauksen?
@@ -979,6 +989,7 @@ Ei vaihtoehtoja wikissä, mutta kerrottu oikea vastaus, joka on ilmeisesti dehyd
 - NSAIDit heikentävät munuaisten toimintaa, koska COX-1- että COX-2-entsyymit (molemmat jatkuvasti ekspressoituneita munuaisissa) tuottavat erityisesti afferenttia arteriolia dilatoivia prostaglandiineja -> NSAIDien aiheutta COX-inhibitio heikentää munuaisten perfuusiota 
 
 Molemmat siis heikentävä munuaisten perfuusiota ja altistavat prerenaaliselle AKI:lle (akuutti munuaisvaurio). 
+
 - Renaalinen syy taas johtuisi munuaisten sisäisestä syystä (esim. akuutti tubulusnekroosi, akuutti interstitielli nefriitti) ja postrenaalinen syy obstruktiosta virtsateissä (esim. virtsakivet, BPH, tuumorit, neurofeeninen rakko). 
 
 ## Potilastapaus: potilaan rinnuksilla on oksennusta, ht 8 krt/min, saturoi huonosti, mitä teet hengityksen turvaamiseksi?
@@ -1033,6 +1044,7 @@ Valitse yksi
 a) vaakatasossa 
 b) trendelenburgissa 
 c) pää hieman koholla
+d) kyljellään
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -1057,13 +1069,14 @@ SIRS (Systemic Inflammatory Response Syndrome)-kriteereistä (ja termistäkin, e
 - hengitystaajuus >20/min tai a-pCO2 <4,3 kPA 
 - valkosolut <4 tai >12 
 
-Sepsis määriteltiin enne sepsis 3-määritelmää SIRSinä, jossa on epäilty/varmistettu infektio 
+Sepsis määriteltiin ennen sepsis 3-määritelmää SIRSinä, jossa on epäilty/varmistettu infektio 
 
 - Nykyään sepsis = yksi uusi elinhäiriö + epäilty/varmistettu infektio 
 - Uusi elinhäiriö voidaan arvioida nopeasti qSOFA-kriteerejä käyttämällä. Tulee olla vähintään kaksi kriteeriä seuraavista: hengitysfrekvenssi >22, systolinen verenpaine <100, muuttunut tajunnan taso 
 - Tarkempi arvio kuin qSOFA on SOFA ja jos sen pisteytys on 2 tai yli, niin on kyseessä elinhäiriö 
 
 Aikaisemmin sepsiksen ajateltiin olevan jatkumo SIRS+infektio kautta vaikeaan sepsikseen ja sitä kautta septiseen sokkiin
+
 - Nykyään on vain sepsis ja septinen sokki, ei enää virallisesti ole "vaikea sepsis"-käsitettä
 - Septinen sokki (sepsis + vasopressoritarve (MAP <65 nestehoidon kanssakin) + laktaatti >2mmol/l riittävän neste-elvytyksen jälkeen)
 
@@ -1091,7 +1104,7 @@ Distributiivisia sokkeja ovat infektio (septinen sokki), allergeenit (anafylakti
 
 Distributiivinen sokki johtaa matalaan verenpaineeseen yleistyneen vasodilataation takia. Potilailla havaitaan kapasitanssisuonten ja arteriolien poikkeava vasodilataatio, jolloin alkuvaiheessa voidaan havaita ns. "lämmin sokki". Sydämen toiminta tyyppitilanteessa on normaalia tai hyperdynaamista, joskin inflammaatio voi aiheuttaa myös sydämen toiminnan lamaa. Kiertävä veritilavuus on alkuvaiheessa normaali, mutta vasodilataation ja myös verisuonten läpäisevyyden lisääntymisen myötä potilaille kehittyy hypovolemia ja hypovoleemisen sokin taudinkuva.
 
-Anafylaksian hoito perustuu adrenaliinin annosteluun. Anafylaksiassa adrenaliinia voidaan annostella i.v. (vain sokissa) tai i.m. Annostelu on iv:sti aikuisille 0,05-0,1mg ja im:sti 0,3-0,5 mg. Lapsille im-annostelu on 0,01 mg/kg.
+Anafylaksian hoito perustuu adrenaliinin annosteluun. Anafylaksiassa adrenaliinia voidaan annostella i.v. (vain sokissa) tai i.m. Annostelu on iv:sti aikuisille 0,05-0,1mg ja i.m:sti 0,3-0,5 mg. Lapsille im-annostelu on 0,01 mg/kg.
   </div>
 </div>
 
@@ -1107,7 +1120,7 @@ Ei vaihtoehtoja wikissä tai mitään kysymyksenasettelua. Tässä hyponatremias
 
 Hoito pähkinänkuoressa: 
 
-- Tärkein periaate hyponatremian hoidossa yleisesti on, että natriumpitoisuutta suurennetaan hitaasti ja hallitusti (tavoite on 5 mmol/l minkä tahansa 24 t jakson aikana ja saa nousta enintään 8 mmol/l/24 t, kunnes P-Na on 130 mmol/l tai suurempi). Jos hyponatremian korjaa liian nopeasti, voi haittavaikutuksena tapahtua aivosillan osmoottinen myelinoosi, jonka mahdollisia oireita: ataksia, puhevaikeus, nielemisvaikeus, katsehalvaus, sekavuus, kouristelu, neliraajahalvaus, loukkuhalvaus (locked-in-oireyhtymä). "From low to high, your pons will fry". Tästä poikkeus on hyperakuutti hyponatremia (esim. vedenjuontikilpailu), jolloin hypoantremian saa korjata nopeasti.
+- Tärkein periaate hyponatremian hoidossa yleisesti on, että natriumpitoisuutta suurennetaan hitaasti ja hallitusti (tavoite on 5 mmol/l minkä tahansa 24 t jakson aikana ja saa nousta enintään 8 mmol/l/24 t, kunnes P-Na on 130 mmol/l tai suurempi). Jos hyponatremian korjaa liian nopeasti, voi haittavaikutuksena tapahtua aivosillan osmoottinen myelinoosi, jonka mahdollisia oireita: ataksia, puhevaikeus, nielemisvaikeus, katsehalvaus, sekavuus, kouristelu, neliraajahalvaus, loukkuhalvaus (locked-in-oireyhtymä). "From low to high, your pons will fry". Tästä poikkeus on hyperakuutti hyponatremia (esim. vedenjuontikilpailu), jolloin hyponatremian saa korjata nopeasti.
 - Jos kyseessä on vaikeasti oireinen hyponatremia (oksentelu, voimakas päänsärky, huomattava sekavuus, kouristelu, tajuttomuus), niin annetaan 100ml hypertonista NaCl 3 % -liuosta 10 minuutissa; tarvittaessa toistetaan ad x2. Tavoitteena on nostaa P-Na 5 mmol/l (tai jos oireet väistyvät niin alle tämän) lähtötilanteesta muutaman tunnin kuluessa, jolloin aivoturvotuksen oireet vähenevät ja herniaatioriski väistyy; P-Na tarkistetaan heti infuusion jälkeen. NaCl 3 % -hoito lopetetaan heti, kun hyponatremian vakavat oireet ovat väistyneet, vaikka P-Na ei olisi noussut 5 mmol/l. Hoito toteutetaan vain valvontahuoneolosuhteissa (PÄIV, TEHO), jossa mahdollisuus tiheään P-Na pitoisuuden seurantaan. 
 - Muuten hoito simppelisti näin: 
   - Hypovoleeminen hyponatremia: Ringer (tai 0,9% nacl)
@@ -1117,7 +1130,7 @@ Hoito pähkinänkuoressa:
 
 ![](images/hyponatremiadiagnostiikka.png)
 
-Jos olet unohtanut hyponatremiasta perusteet ja miksi mikäkin tila aiheuttaa hyponatremiaa ja miksi mikäkin hoito auttaa eri tilanteissa (eikä vain anneta suolatabletteja), niin kannattaa lukea: 
+Jos olet unohtanut hyponatremiasta perusteet ja miksi mikäkin tila aiheuttaa hyponatremiaa ja miksi mikäkin hoito auttaa eri tilanteissa (eikä vain anneta suolatabletteja), niin kannattaa lukea [tästä kirjasta](https://www.dropbox.com/scl/fi/su5a80q9gb3ize0tn85z3/The-whole-enchilada.pdf?rlkey=89f8gpkgek0ibknywv4qjsugb&e=3&dl=0) hyponatremia-osuudet. 
 
 ## Potilas hengittää spontaanisti, saturaatio 96%, GCS 5, mitä teet hengitysteille?
 
@@ -1135,18 +1148,18 @@ Valitse yksi
   <div class="solution-content">
     a
 
-Yleissääntö on, että "GCS under 8, intubate". Merkittävässä kognitiivisessa häiriössä potilailla on depressoitunut kakomis- ja yskärefleksit, mikä altistaa aspiraatiolle, koska potilas ei pysty suojaamaan omia hengitysteitään. "GCS under 8, intubate"-dogma on saanut kritiikkiä, mutta se on monissa tilanteissa ihan hyvä yleissääntö ja se kannattaa muistaa. 
+Yleissääntö on, että "GCS under 8, intubate". Merkittävässä kognitiivisessa häiriössä potilailla on depressoituneet kakomis- ja yskärefleksit, mikä altistaa aspiraatiolle, koska potilas ei pysty suojaamaan omia hengitysteitään. "GCS under 8, intubate"-dogma on saanut kritiikkiä, mutta se on monissa tilanteissa ihan hyvä yleissääntö ja se kannattaa muistaa. 
   </div>
 </div>
 
-## Mikä ei ole vasta-aihe puudutukselle (spinaali/epiduraali)? 
+## Mikä ei ole vasta-aihe sentraaliselle puudutukselle (spinaali/epiduraali)? 
 
 Valitse yksi 
 
-- a. potilas on lapsi
-- b. puudutusalueen infektio
-- c. korjaamaton hypovolemia
- -d. joku (ei wikissä)
+- a. Potilas on lapsi
+- b. Puudutusalueen infektio
+- c. Korjaamaton hypovolemia
+- d. Potilas kieltäytyy hoidosta
  
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -1161,7 +1174,9 @@ b: Puudutusalueen infektio on vasta-aihe sentraaliselle puudutukselle, koska ei 
 
 c: Sentraaliset puudutukset voivat yleensä aiheuttaa hypotensiota sympaattisen hermoston salpauksesta johtuen -> korjaamaton hypovolemia altistaa massiiviselle verenpaineen romahdukselle sentraalisen puudutuksen yhteydessä
 
-d: Vaikka kohonnut kallonsisäinen paine on vasta-aihe spinaalipuudutukselle, samoin aktiivinen antikoagulaatiohoito (ei haittaa, että pieniannos-ASA on päällä, mutta muuten äytännössä kaikki antitromboottiset/antikoagulatiiviset lääkkeet tulee tauottaa joksikin aikaa ennen sentraalista puudutusta (vaihtelee lääkkeen mukaan))
+d: Potilaan kieltäytyminen on monissa tilanteissa vasta-aihe mille tahansa. 
+
+Muita vasta aiheita ovat kohonnut kallonsisäinen paine, samoin aktiivinen antikoagulaatiohoito (ei haittaa, että pieniannos-ASA on päällä, mutta muuten käytännössä kaikki antitromboottiset/antikoagulatiiviset lääkkeet tulee tauottaa joksikin aikaa ennen sentraalista puudutusta (vaihtelee lääkkeen mukaan))
 ![](images/puudutuskontraindikaatiot.png)
   </div>
 </div>

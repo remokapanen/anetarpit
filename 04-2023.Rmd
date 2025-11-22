@@ -265,31 +265,114 @@ Ei vaihtoehtoja, mutta käytännössä elvytyksessä vaaditaan vain rytminseuran
 
 ## Post-op. pahoinvoinnille altistavat tekijät 
 
-- tupakointi ei altista
+Tehtävänantona todennäköisesti valita tekijä, joka ei altista PONV:lle. 
 
-## Anafylaksian hoito 
+- Vastauksena ollut: **tupakointi ei altista;** tämä on todella korkean annin faktoidi tietää eli tupakointi itse asiassa suojaa leikkauksen jälkeiseltä pahoinvoinnilta ja tupakoimattomuus on riskitekijä. 
 
-- adrenaliini
+![](images/ponvriskitekijät.png)
 
-## Pulssioksimetrin virhelähteet
+## Mikä on tärkein lääke anafylaksian hoidossa? 
+
+Ei vaihtoehtoja, mutta tulisi osata vastata ilman vinkkejä
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    Adrenaliini 
+    
+Anafylaksian hoidossa i.m. adrenaliinia annetaan 0.3-0.5mg annos. Sokkitilanteessa tyypillisesti annostellaan i.v., jolloin annos on 0.05-0.1mg. 
+
+Adrenaliinin käytölle ei ole absoluuttisia vasta-aiheita anafylaksiassa; anafylaksian hoito on prioriteetti nro 1. 
+  </div>
+</div>
+
 
 ## ISBAR, mitä S-kirjain tarkoittaa
 
+Ei vaihtoehtoja, mutta tulisi osata vastata ilman vinkkejä
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    Situation 
+    
+ISBAR on raportointimenetelmä, jota voidaan käyttää sairaalaympäristössä ja sen ulkopuolella infromaation järjestämiseen selkeään ja suppeaan muotoon, mikä mahdollistaa ohdonmukaisen kommunikaation. 
+
+I = Identify, S = Situation, B = Background, A = Assessment, R = Recommendation
+
+![](images/isbar.png)
+  </div>
+</div>
+
+
 ## CYP2D6-entsyymin aktiivisuuden vaikutus kodeiinin analgeettiseen vaikutukseen
 
-## Mitä monitoroidaan rutiinisti heräämössä?
+Käyty jo useaan otteeseen läpi aikaisemmin. Tulisi olla helppoa vastata kysymykseen: **"Kummalla kodeiini aiheuttaa suuremman vaikutuksen: CYP2D6:n suhteen hitailla vai nopeilla metaboloijilla?"**
 
-## Vanhuksen kivun hoito
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    Nopeilla metaboloijilla 
+    
+Kodeiini on aihiolääke, joka metaboloidaan maksassa CYP2D6::entsyymi:n toimesta morfiiniksi, joka välittää opioidivaikutuksen. Tämän vuoksi kodeiinin vasteet vaihtelevat huomattavasti yksilöiden välillä perimästä ja CYP2D6:ta estävien muiden samanaikaisten lääkkeiden takia. 
+
+Arvioiden mukaan CYP2D6:n suhteen hitaita metaboloijia on noin 7% valkoihoisista ja ultranopeita metaboloijia n. 3.6-6.5% (afrikkalaistaustaisista jopa 29%). 
+  </div>
+</div>
 
 ## Raskaana olevan anestesia
 
+Ei tarkempaa kysymyksenasettelua tai vaihtoehtoja wikissä, tässä tärkeimmät aiheesta: 
+
+**Kaikki tavanomaiset anestesialääkkeet, puudutteet ja paikallisesti käytettävät lääkeaineet soveltuvat raskaana olevan anestesiaan**
+
+- Kipulääkkeista leikkauksen jälkeen parasetamoli on suositeltavin, NSAIDeja voidaan käyttää lyhytaikaisesti, mutta niiden käyttöä vältetään loppuraskaudesta valtimotiehyen (ductus arteriosus) sulkeutumisen vuoksi. Opioidit eivät ole vasta-aiheisia, mutta niitä käytetään pienintä tehokasta annosta mahdollisimman lyhyen aikaa (samoin kuten muillakin).
+
+Raskaana olevalle tehdään vain välttämättömiä toimenpiteitä; elektiiviset tyypillisesti lykätään raskauden jälkeisiksi 
+
+- Jos raskauden aikana on pakko leikata potilas, niin turvallisin ajankohta on embryogeneesin jälkeinen aika eli myöhäinen ensimmäinen raskauskolmannes ja toinen raskauskolmannes (aspiraatioriski koholla myöhäisessä raskaudessa). 
+- Sikiön kannalta on huomattava, ettei millään anestesiassa käytettävällä lääkkeellä ole todettu teratogeenisia vaikutuksia
+
+Leikkauksessa tulee aina olla valmius kiireelliseen tai hätäsektioon äidin tai sikiön voinnin äkillisesti romahtaessa
+
+Monitorointi eroaa hieman ja KTG-rekisteröinti (kardiotokografia) tehdään aina ennen toimenpidettä ja toimenpiteen jälkeen. Rekisteröinti voi olla tarpeen koko toimenpiteen ajan, ja se tehdään tarvittaessa myös heräämöhoidon aikana. 
+
+- Sikiön sykekäyrä on yleisanestesian aikana monotoninen ja normaali sykevaihtelu puuttuu. Seuranta vaatii kätilön saliin
+- Kardiotokografia sisältää sekä sikiön sykekäyrän että kohdun supistelun seurannan
+
+_Yleisanestesian sijaan puudutukset ovat suositeltavimpia, jos ne ovat mahdollisia leikkaus ja potilaskohtaiset muuttujat huomioiden. Puudutuksia suositaan myös jälkikivun hoidossa_
+
+
 ## Mikä näistä liittyy akuutista kudosvauriosta johtuvaan kipuun 
 
-- nosiseptio
+Ei vaihtoehtoja, mutta vastaus annettu: nosiseptio
+
+- Nosiseptio tarkoittaa neurologista prosessia, jossa kipureseptorit aktivoituvat ja lähettävät signaaleja kipuärsykkeestä aivoihin. 
+- Nosiseptiolla on potentiaalia johtaa kipuun, mutta ei aina johda siihen; kipu on kokemus, joka voi kyllä johtua nosiseptiosta, mutta voi myös syntyä ilman sitä.
+- Nosiseptio ei siis tarkoita kipua; Kipu ja nosiseptio ovat eri ilmiöitä. Kipua ei voida päätellä pelkästään aistineuronien aktiivisuudesta.
 
 ## Mikä näistä ei ole opioidien sivuvaikutus
 
-- ummetus
-- euforia
-- hengityslama
-- joku neljäs
+Valitse yksi:
+
+- a. ummetus
+- b. euforia
+- c. hengityslama
+- d. joku neljäs (ei wikissä)
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+    d 
+    
+Ummetus ja hengityslama ovat tunnetuimpia opioidien sivuvaikutuksia. Euforia on myös yksi opioidien tunnetuista sivuvaikutuksista. Jäljelle siis jää vain d, jota ei ole wikiin satuttu muistamaan. 
+  </div>
+</div>
