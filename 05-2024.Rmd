@@ -132,7 +132,7 @@ Aivovammapotilaan hoidossa tulee olla tietoinen kohonneen kallonsisäisen painee
 
 - CPP = MAP - ICP; normaalisti CPPn. 60-80 mmHg ja ICP n. 1-10 mmHg. Aivovammapotilailla CPP:n tavoitearvo on 60–70 mmHg. 
 - Potilaan MAP on n. 133 mmHg (MAP = dvp + 1/3(svp-dvp) eli MAP = 100 + 1/3(198-100)). Tämä on todennäköisesti kompensatorinen reaktio kohonneelle ICP:lle, kun keho yrittää ylläpitää riittävää CPP:tä nostamalla verenpainetta. Tätä kutsutaan Cushingin refleksiksi, jolle on tyypillistä hypertensio, bradykardia ja epäsäännöllinen hengitys (kohonnut ICP konstriktoi aivovaltimoita -> iskemia -> matala pH ja koholla oleva CO2 -> kompensatorinen perifeerinen vasokonstriktio (hypertensio) -> bradykardia (baroreseptorirefleksi); oireet ovat vastakkaiset sokille). 
-- Verenpaineen nousu päävamman yhteydessä voi siis olla protektiivinen tiettyyn pisteeseen saakka, mutta voi myös aiheuttaa sekundaarisia aivovaurioita pahentamalla vasogeenista ldeemaa ja intrakraniaalista hypertensiota. Tällä hetkellä ei ole yksiselitteistä konsensusta sen suhteen, miten hypertensiota tulisi kontrolloida päävammapotilailla. Eräältä kannalta verenpaineen laskeminen riskeeraa aivoiskemiaa CPP:n laskiessa, toiselta kannalta taas intrakraniaalisen verenvuodon ja aivoödeeman riski laskee verenpaineen laskiessa.  
+- Verenpaineen nousu päävamman yhteydessä voi siis olla protektiivinen tiettyyn pisteeseen saakka, mutta voi myös aiheuttaa sekundaarisia aivovaurioita pahentamalla vasogeenista ödeemaa ja intrakraniaalista hypertensiota. Tällä hetkellä ei ole yksiselitteistä konsensusta sen suhteen, miten hypertensiota tulisi kontrolloida päävammapotilailla. Eräältä kannalta verenpaineen laskeminen riskeeraa aivoiskemiaa CPP:n laskiessa, toiselta kannalta taas intrakraniaalisen verenvuodon ja aivoödeeman riski laskee verenpaineen laskiessa.  
 - Monien lähteiden mukaan systolisen verenpaineen tavoite tulisi olla 100-140, mutta Duodecimin oppikirjassa annetaan tällainen ohje: systolisia verenpainearvoja yli 180 mmHg tulee pääsääntöisesti hoitaa beetasalpaajalla. Hypotensiota tulee varoa ja lyhytaikainenkin matala verenpaine (syst < 90 mmHg) kaksinkertaistaa kuolemanriskin, tavoite ainakin >120 mmHg. 
 
 Aivovammapotilaita usein sedatoidaan tarpeen mukaan vähentämään aivojen metaboliaa, hoitamaan kohonnutta kallonsisäistä painetta ja helpottamaan hengityslaitteeseen sopeutumista
@@ -169,7 +169,7 @@ Normoksiaan (saturaatio >94%) tavoitellaan ja tietysti elottomuuden syyn selvitt
 
 Valitse yksi
 
-- a. Potilas hengittää poikkeuksellisen tiheään ja syvään,
+- a. Potilas hengittää poikkeuksellisen tiheään ja syvään
 - b. Hengityskeskuksen säätely muuttunut huumeiden vuoksi
 - c. Kuolleen tilan määrä vähenee
 - d. Pulssioksimetri ei voi näyttää normaalia happiosapainetta
@@ -345,7 +345,7 @@ Ei vaihtoehtoja wikissä, mutta tässä lonkkamurtumapotilaan lääkityksestä
 - Ensivaiheen kipuhoidossa parasetamoli 1gx3 säännöllisesti ja opioidi tarvittaessa. Kivun hoidossa todella hyödyllinen hoitokeino on myös femoralisblokki, joka hoitaa kipua tehokkaasti ja vähentää opioiditarvetta. 
 - Ennen leikkausta aloitetaan tromboosiprofylaksi (yleensä pienimolekyylinen hepariini), joka jatkuu 3–4 viikkoa leikkauksen jälkeen
 - Nestehoito ja hypovolemian estäminen 
-- Anitibioottiprofylaksi leikkauksen yhteydessä
+- Antibioottiprofylaksi leikkauksen yhteydessä
 - Tilan stabiloiduttua tulee tarvittaessa harkita osteoporoosilääkitystä 
 
 ## Magnesiumsulfaatin käyttö mihin tarkoitukseen: 
@@ -1034,7 +1034,7 @@ Valitse yksi
   <div class="solution-content">
     d
 
-Elvytyksen jälkeen tavoitellaan yli 65 mmHg:n keskiverenpainetta, jolla virtsantulo on riittävä (> 0,5 ml/kg/t) ja laktaattipitoisuus pienenee hoidon aikana. Minimiverenpainetavoite elvytyksen jälkeen ilmoitetaan monissa lähteissä myös tavalla syst >100 mmHg. Käypä Hoidon Elvytys-artikkelissa ilmoitetaan nämä molemmat (alogritmikaaviossa systolinen >100 mmHg ja tekstissä Verenkierron seuranta-osiossa kirjoitetaan tavoitteeksi MAP >65 mmHg). 
+Elvytyksen jälkeen tavoitellaan yli 65 mmHg:n keskiverenpainetta, jolla virtsantulo on riittävä (> 0,5 ml/kg/t) ja laktaattipitoisuus pienenee hoidon aikana. Minimiverenpainetavoite elvytyksen jälkeen ilmoitetaan monissa lähteissä myös tavalla syst >100 mmHg. Käypä Hoidon Elvytys-artikkelissa ilmoitetaan nämä molemmat (algoritmikaaviossa systolinen >100 mmHg ja tekstissä Verenkierron seuranta-osiossa kirjoitetaan tavoitteeksi MAP >65 mmHg). 
 
 ![](images/elvytyksenjälkeen.png)
   </div>
@@ -1260,7 +1260,7 @@ Hoitona on 0-5 min kohdalla vitaalitoimintojen turvaaminen (ABCDE) ja lisävammo
 a: Tyypillisesti yli 5 minuuttia kestänyttä epileptistä kohtausta (ainakin tajuttomuus-kouristuskohtausta) on hoidettava kuten uhkaavaa status epilepticusta
 
 ![](images/se.png)
-![images/epilepsia.png]
+![](images/epilepsia.png)
 
   </div>
 </div>
@@ -1382,7 +1382,7 @@ Naloksoni on opioidiantagonisti, jota käytetään pääasiassa opioidiyliannost
 </div>
 
 
-## Miksi potilaan ydinlämpötilaa on tärkeää seurata leikkuksen aikana?
+## Miksi potilaan ydinlämpötilaa on tärkeää seurata leikkauksen aikana?
 
 
 Valitse yksi 
@@ -1512,7 +1512,7 @@ Vaikea sepsis (ei itseasiassa enää ole virallinen termi) voi aiheuttaa esim. D
 Valitse yksi 
 
 - a. Fluraaneja 
-- b, Beetasalpaaja + joku 
+- b. Beetasalpaaja + joku 
 - c. Rokuroni + joku 
 - d. Dobutamiini + joku (ilmeisesti tää on oikee)
 
